@@ -1,0 +1,3 @@
+var disqus_shortname=&quot;tutorial-keren&quot;;!function(){var e=document.createElement(&quot;script&quot;);e.async=!0,e.type=&quot;text/javascript&quot;,e.src=&quot;//&quot;+disqus_shortname+&quot;.disqus.com/count.js&quot;,(document.getElementsByTagName(&quot;HEAD&quot;)[0]||document.getElementsByTagName(&quot;BODY&quot;)[0]).appendChild(e)}();</script>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<script type='text/javascript'>!function(){var e=document.createElement(&quot;script&quot;);e.type=&quot;text/javascript&quot;,e.async=!0,e.src=&quot;//&quot;+disqus_shortname+&quot;.disqus.com/blogger_item.js&quot;,(document.getElementsByTagName(&quot;head&quot;)[0]||document.getElementsByTagName(&quot;body&quot;)[0]).appendChild(e)}();
